@@ -41,7 +41,7 @@ The results are:
 0 ( Not a question) - 8799
 1 (Is a question) - 1201
 
-# For Part 2 , which is to identify the question subtypes, I use the same model and run it on the 1201 sentences which are classified as questions.
+For Part 2 , which is to identify the question subtypes, I use the same model and run it on the 1201 sentences which are classified as questions.
 
 Now instead of classifying the sentence as question or not question I classified the question as WH
 questions and Yes/No questions.
