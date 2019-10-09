@@ -1,12 +1,13 @@
 # nlp-question-detection
 
-## Given a sentence, predict if the sentence is a question or not
+### Given a sentence, predict if the sentence is a question or not
 
-I have used 3 methods to across 
+I have used 3 methods
 
-## Part 1 - detect a question and Part 2 - detect the type of the question.
+#### Part 1 - detect a question and 
+#### Part 2 - detect the type of the question.
 
-METHOD 1: Using Basic Parse Tree created using Stanford's CORE NLP
+## METHOD 1: Using Basic Parse Tree created using Stanford's CORE NLP
 This is the most basic experiment among the three.
 
 I have used the Penn Treebank’s Clause level tags to detect if the sentence is a question.
